@@ -2,7 +2,7 @@
 * [Waterworks](/../../../waterworks) - C#, ASP.Net Core, JavaScript, Bootstrap, Openlayers, PostgreSQL, PostGIS
 * [Historical maps](/../../../hist-map) - JavaScript, React, Openlayers, MobX
 * [Bruteforce CUDA](/../../../bruteforce-cuda) - C, CUDA
-* [Reactivities](/../../../Reactivities) - TypeScript, React, MobX Udemy Course
+* [Reactivities](/../../../Reactivities) - ASP .NET Core, TypeScript, React, MobX Udemy Course
   
 ## Group projects
 *  [Serwis AGD](/../../../../ksundaysky/AGD-serwis) - Java, Spring
