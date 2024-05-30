@@ -1,5 +1,13 @@
-### Hi there 👋
-
+## My repositories
+* [Waterworks](/../../../waterworks) - C#, ASP.Net Core, JavaScript, Bootstrap, Openlayers, PostgreSQL, PostGIS
+* [Historical maps](/../../../hist-map) - JavaScript, React, Openlayers, MobX
+* [Bruteforce CUDA](/../../../bruteforce-cuda) - C, CUDA
+* [Reactivities](/../../../Reactivities) - TypeScript, React, MobX Udemy Course
+  
+## Group projects
+*  [Serwis AGD](/../../../../ksundaysky/AGD-serwis) - Java, Spring
+*  [Courses and tests app](/../../../../wrobika/courses) - C#, ASP .NET Core MVC
+  
 <!--
 **natamora/natamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
