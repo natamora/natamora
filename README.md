@@ -1,11 +1,13 @@
 ## My repositories
-* [Waterworks](/../../../waterworks) - C#, ASP.Net Core, JavaScript, Bootstrap, Openlayers, PostgreSQL, PostGIS
-* [Historical maps](/../../../hist-map) - JavaScript, React, Openlayers, MobX, Semantic UI
-* [Bruteforce CUDA](/../../../bruteforce-cuda) - C, CUDA
 * [Reactivities](/../../../Reactivities) - ASP .NET Core, TypeScript, React, MobX, Semantic UI
-  
+* [Historical maps](/../../../hist-map) - JavaScript, React, Openlayers, MobX, Semantic UI
+* [Waterworks](/../../../waterworks) - C#, ASP.Net Core, JavaScript, Bootstrap, Openlayers, PostgreSQL, PostGIS
+
+* [Bruteforce CUDA](/../../../bruteforce-cuda) - C, CUDA
+
+
 ## Group projects
-*  [Serwis AGD](/../../../../ksundaysky/AGD-serwis) - Java, Spring
+*  [Serwis AGD](/../../../AGD-serwis) - Java, Spring
 *  [Courses and tests app](/../../../../wrobika/courses) - C#, ASP .NET Core MVC
   
 <!--
