@@ -1,5 +1,7 @@
 ## My repositories
 * [Reactivities](/../../../Reactivities) - ASP .NET Core, TypeScript, React, MobX, Semantic UI
+
+* [LeetCodeProblems](/../../../LeetCodeProblems) - Collection of algorithm and coding challenges solved on LeetCode, mainly in C#
   
 * [Historical maps](/../../../hist-map) - JavaScript, React, Openlayers, MobX, Semantic UI
   
@@ -9,9 +11,10 @@
 
 
 ## Group projects
-*  [Serwis AGD](/../../../AGD-serwis) - Java, Spring
+* [Serwis AGD](/../../../AGD-serwis) - Java, Spring
   
-*  [Courses and tests app](/../../../../wrobika/courses) - C#, ASP .NET Core MVC
+* [Courses and tests app](/../../../../wrobika/courses) - C#, ASP .NET Core MVC
+
   
 <!--
 **natamora/natamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
